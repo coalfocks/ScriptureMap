@@ -16,7 +16,6 @@
 		646DD23E1FBE731B0043E2C6 /* Scripture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646DD2331FBE731A0043E2C6 /* Scripture.swift */; };
 		646DD23F1FBE731B0043E2C6 /* GeoPlace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646DD2341FBE731A0043E2C6 /* GeoPlace.swift */; };
 		646DD2401FBE731B0043E2C6 /* scripture.css in Resources */ = {isa = PBXBuildFile; fileRef = 646DD2351FBE731A0043E2C6 /* scripture.css */; };
-		646DD2411FBE731B0043E2C6 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 646DD2361FBE731A0043E2C6 /* Info.plist */; };
 		646DD2421FBE731B0043E2C6 /* GeoDatabase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646DD2371FBE731A0043E2C6 /* GeoDatabase.swift */; };
 		646DD2431FBE731B0043E2C6 /* ScriptureRenderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646DD2381FBE731A0043E2C6 /* ScriptureRenderer.swift */; };
 		646DD2441FBE731B0043E2C6 /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646DD2391FBE731A0043E2C6 /* String+Extensions.swift */; };
@@ -357,7 +356,6 @@
 				646DD2401FBE731B0043E2C6 /* scripture.css in Resources */,
 				646DD2471FBE731B0043E2C6 /* geocode.js in Resources */,
 				64D9E2391FBC91C50003E4A6 /* Assets.xcassets in Resources */,
-				646DD2411FBE731B0043E2C6 /* Info.plist in Resources */,
 				64D9E2341FBC91C50003E4A6 /* Main.storyboard in Resources */,
 				646DD2461FBE731B0043E2C6 /* geo.21.sqlite in Resources */,
 			);

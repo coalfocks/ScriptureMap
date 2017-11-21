@@ -37,6 +37,8 @@ class MapViewController : UIViewController, MKMapViewDelegate, CLLocationManager
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         if let place = selectedGeoPlace {
+            mapLabel?.text = place.placename
+            setPins(pins: [selectedGeoPlace!])
             let camera = MKMapCamera(lookingAtCenter: CLLocationCoordinate2DMake(place.latitude, place.longitude),
                                      fromEyeCoordinate: CLLocationCoordinate2DMake(place.viewLatitude, place.viewLongitude),
                                      eyeAltitude: place.viewAltitude)

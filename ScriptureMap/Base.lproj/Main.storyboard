@@ -82,7 +82,7 @@
                             <outlet property="delegate" destination="dTQ-Ly-oWa" id="fI2-HI-SV8"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Table of Contents" id="kz1-Kt-J10"/>
+                    <navigationItem key="navigationItem" title="Volumes" id="kz1-Kt-J10"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Wzf-Tg-KCf" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -201,6 +201,6 @@
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="6Vf-oB-Uo2"/>
-        <segue reference="AKO-p8-Rsw"/>
+        <segue reference="NzU-B6-U52"/>
     </inferredMetricsTieBreakers>
 </document>
